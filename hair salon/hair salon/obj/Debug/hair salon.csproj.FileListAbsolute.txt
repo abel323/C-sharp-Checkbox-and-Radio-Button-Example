@@ -1,0 +1,9 @@
+D:\Upwork Clients Project\hair salon\hair salon\bin\Debug\hair salon.exe.config
+D:\Upwork Clients Project\hair salon\hair salon\bin\Debug\hair salon.exe
+D:\Upwork Clients Project\hair salon\hair salon\bin\Debug\hair salon.pdb
+D:\Upwork Clients Project\hair salon\hair salon\obj\Debug\hair salon.csprojAssemblyReference.cache
+D:\Upwork Clients Project\hair salon\hair salon\obj\Debug\hair_salon.Form1.resources
+D:\Upwork Clients Project\hair salon\hair salon\obj\Debug\hair_salon.Properties.Resources.resources
+D:\Upwork Clients Project\hair salon\hair salon\obj\Debug\hair salon.csproj.GenerateResource.cache
+D:\Upwork Clients Project\hair salon\hair salon\obj\Debug\hair salon.exe
+D:\Upwork Clients Project\hair salon\hair salon\obj\Debug\hair salon.pdb
